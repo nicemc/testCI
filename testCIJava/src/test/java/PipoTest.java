@@ -18,4 +18,6 @@ public class PipoTest {
     public void testAdd() {
         assertThat(SimpleClass.add(2,3)).isEqualTo(5);
     }
+
+
 }
